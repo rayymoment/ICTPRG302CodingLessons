@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 # Introduction
 print ("Hello World!!!!")
 print ("My name is Rayyan and I like coding!!!!")
