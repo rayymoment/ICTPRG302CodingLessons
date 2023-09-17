@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Excercise 1
 a = 200
 b = 200
