@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Example 1
 x = 42 # is of type int
 y = "Rayyan" # y is type of string
