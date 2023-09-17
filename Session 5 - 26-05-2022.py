@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 # Arrays - Temporarily adding and removing items to an array
 clothes_rack = []
 clothes_rack.append("dress")
