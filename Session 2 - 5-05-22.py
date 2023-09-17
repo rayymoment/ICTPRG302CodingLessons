@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 # Keywords (Cannot use these within variables)
 import keyword
 print (keyword.kwlist)
